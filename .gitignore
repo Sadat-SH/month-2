@@ -6,6 +6,7 @@ __pycache__/
 venv/
 .DS_Store
 
-.db
-.sqlite
-.sqlite3
+*.db
+*.sqlite
+*.sqlite3
+books.db
